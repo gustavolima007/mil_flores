@@ -102,7 +102,7 @@ $(function () {
   /* typejs
   -------------------------------------------------------*/
   $('.header .caption h2 span').typed({
-    strings: ["Designer","freelancer","Photographer","Web developer"],
+    strings: ["fazer festa?","passar as ferias?","descansar?"],
     loop: true,
     startDelay: 1000,
     backDelay: 2000

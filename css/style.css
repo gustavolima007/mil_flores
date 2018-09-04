@@ -9,7 +9,7 @@
   Author URL: https://themeforest.net/user/design_grid
   Version: 1.0
 
-  Main Color: #01DF01
+  Main Color: #00FF00
 
 -------------------------------------------------------------------*/
 /*------------------------------------------------------------------
@@ -80,8 +80,8 @@ h4 {
 
 button.btn, a.btn {
   position: relative;
-  background-color: #01DF01;
-  border: 1px solid #01DF01;
+  background-color: #00FF00;
+  border: 1px solid #00FF00;
   padding: 15px 20px;
   -webkit-box-shadow: 0px 4px 38px -6px rgba(0, 0, 0, 0.1);
           box-shadow: 0px 4px 38px -6px rgba(0, 0, 0, 0.1);
@@ -109,7 +109,7 @@ button.btn:after, a.btn:after {
   bottom: -1px;
   left: -1px;
   background-color: #f7f7f7;
-  border: 1px solid #01DF01;
+  border: 1px solid #00FF00;
   border-radius: 3px;
   -webkit-transform: scaleX(0);
           transform: scaleX(0);
@@ -119,7 +119,7 @@ button.btn:after, a.btn:after {
 }
 button.btn:hover, a.btn:hover {
   background-color: transparent;
-  border: 1px solid #01DF01;
+  border: 1px solid #00FF00;
 }
 button.btn:hover span, a.btn:hover span {
   color: #000;
@@ -130,7 +130,7 @@ button.btn:hover span, a.btn:hover span {
   border-radius: 3px;
 }
 button.btn:hover:after, a.btn:hover:after {
-  border: 1px solid #01DF01;
+  border: 1px solid #00FF00;
   -webkit-transform: scaleX(1);
           transform: scaleX(1);
   -webkit-transition-delay: 0s;
@@ -139,11 +139,11 @@ button.btn:hover:after, a.btn:hover:after {
 
 button.btn-light, a.btn-light {
   background-color: transparent;
-  border: 1px solid #01DF01;
+  border: 1px solid #00FF00;
   color: #000;
 }
 button.btn-light:after, a.btn-light:after {
-  background-color: #01DF01;
+  background-color: #00FF00;
 }
 button.btn-light:hover span, a.btn-light:hover span {
   color: #fff;
@@ -228,7 +228,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
 }
 .section-title p {
   position: relative;
-  background-color: #01DF01;
+  background-color: #00FF00;
   color: #fff;
   display: inline-block;
   margin-bottom: 5px;
@@ -242,7 +242,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   position: absolute;
   top: 0;
   bottom: 0;
-  border: 11px solid #01DF01;
+  border: 11px solid #00FF00;
   z-index: 2;
   left: -12px;
   border-right-width: 11px;
@@ -253,7 +253,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   position: absolute;
   top: 0;
   bottom: 0;
-  border: 11px solid #01DF01;
+  border: 11px solid #00FF00;
   z-index: 2;
   right: -12px;
   border-left-width: 11px;
@@ -276,7 +276,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   width: 1px;
   bottom: -30px;
   left: 50%;
-  background-color: #01DF01;
+  background-color: #00FF00;
   -webkit-transform: translate(-50%, 0);
           transform: translate(-50%, 0);
 }
@@ -304,7 +304,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   z-index: 1030;
 }
 .navbar .active {
-  color: #01DF01 !important;
+  color: #00FF00 !important;
 }
 .navbar .navbar-brand {
   width: 90px;
@@ -483,7 +483,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   transition: all .5s;
 }
 .header .caption .scoial-icon a:hover {
-  color: #01DF01;
+  color: #00FF00;
 }
 
 /* -------------------------------------------------------
@@ -557,7 +557,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   position: absolute;
   width: 0;
   height: 100%;
-  background-color: #01DF01;
+  background-color: #00FF00;
   border-radius: 4px;
   -webkit-transition: all 3s;
   transition: all 3s;
@@ -577,7 +577,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   height: 0;
   border-left: 3px solid transparent;
   border-right: 3px solid transparent;
-  border-top: 5px solid #01DF01;
+  border-top: 5px solid #00FF00;
   position: absolute;
   top: -12px;
   right: -4px;
@@ -653,7 +653,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
 }
 .services .services-box .icon i {
   display: inline-block;
-  color: #01DF01;
+  color: #00FF00;
   font-size: 38px;
 }
 .services .services-box .text {
@@ -720,7 +720,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   transition: all .3s;
 }
 .portfolio .filtering .active {
-  background-color: #01DF01;
+  background-color: #00FF00;
   color: #fff;
   border-radius: 28px;
   -webkit-box-shadow: 0px 10px 30px -4px rgba(0, 0, 0, 0.2);
@@ -878,7 +878,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   margin-bottom: 20px;
 }
 .testimonial .testimonial-item .icon i {
-  color: #01DF01;
+  color: #00FF00;
   font-size: 30px;
 }
 .testimonial .testimonial-item p {
@@ -961,7 +961,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   bottom: -16px;
 }
 .blog .blog-item .part-img .post-info-category a {
-  background-color: #01DF01;
+  background-color: #00FF00;
   height: 33px;
   padding: 7px 19px;
   color: #fff;
@@ -987,7 +987,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   transition: all .3s;
 }
 .blog .blog-item .content .title h4:hover a {
-  color: #01DF01;
+  color: #00FF00;
 }
 .blog .blog-item .content .title li {
   position: relative;
@@ -1165,7 +1165,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   font-size: 14px;
 }
 .footer .scoial-icon a:hover {
-  background-color: #01DF01;
+  background-color: #00FF00;
 }
 .footer .scoial-icon a:hover i {
   color: #252525;
@@ -1222,7 +1222,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   transition: all .5s;
 }
 .demo-review .part-botton a:hover {
-  background-color: #01DF01;
+  background-color: #00FF00;
   color: #fff;
 }
 
@@ -1325,13 +1325,13 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   transition: all .3s;
 }
 .blog_area .navigation .page-numbers:hover {
-  background-color: #01DF01;
-  border: 1px solid #01DF01;
+  background-color: #00FF00;
+  border: 1px solid #00FF00;
   color: #fff;
 }
 .blog_area .navigation .page-numbers.current {
-  background-color: #01DF01;
-  border: 1px solid #01DF01;
+  background-color: #00FF00;
+  border: 1px solid #00FF00;
   color: #fff;
 }
 
@@ -1357,7 +1357,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   line-height: 1.5;
   pointer-events: none;
   border-radius: 5px;
-  background-color: #01DF01;
+  background-color: #00FF00;
   z-index: 4;
   -webkit-transition: all .3s ease-in-out;
   transition: all .3s ease-in-out;
@@ -1391,7 +1391,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
 }
 .s-p-contet .post-content .post-entry-content blockquote {
   padding: 30px 0 30px 30px;
-  border-left: 4px solid #01DF01;
+  border-left: 4px solid #00FF00;
 }
 .s-p-contet .post-content .post-entry-content h4 {
   font-size: 22px;
@@ -1435,7 +1435,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   margin-bottom: 10px;
 }
 .s-p-contet .post-content .post-tags a {
-  background-color: #01DF01;
+  background-color: #00FF00;
   color: #fff;
   display: inline-block;
   padding: 5px 12px;
@@ -1500,7 +1500,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   color: inherit;
 }
 .s-p-contet .sidebar aside ul li .count {
-  background-color: #01DF01;
+  background-color: #00FF00;
   float: right;
   min-width: 20px;
   text-align: center;
@@ -1566,7 +1566,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   transition: all .3s;
 }
 .s-p-contet .sidebar aside .tags .tagcloud a:hover {
-  background-color: #01DF01;
+  background-color: #00FF00;
   color: #fff;
 }
 .s-p-contet .sidebar .search-form-field {
@@ -1587,7 +1587,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
 .s-p-contet .sidebar .search-form-field button {
   width: auto;
   padding: 18px 25px;
-  background-color: #01DF01;
+  background-color: #00FF00;
   cursor: pointer;
   color: #fff;
   border-right: 0;
