@@ -228,7 +228,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
 }
 .section-title p {
   position: relative;
-  background-color: #00FF00;
+  background-color: #008B00;
   color: #fff;
   display: inline-block;
   margin-bottom: 5px;
@@ -242,7 +242,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   position: absolute;
   top: 0;
   bottom: 0;
-  border: 11px solid #00FF00;
+  border: 11px solid #008B00;
   z-index: 2;
   left: -12px;
   border-right-width: 11px;
@@ -253,7 +253,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   position: absolute;
   top: 0;
   bottom: 0;
-  border: 11px solid #00FF00;
+  border: 11px solid #008B00;
   z-index: 2;
   right: -12px;
   border-left-width: 11px;
@@ -961,7 +961,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   bottom: -16px;
 }
 .blog .blog-item .part-img .post-info-category a {
-  background-color: #00FF00;
+  background-color: #008B00;
   height: 33px;
   padding: 7px 19px;
   color: #fff;
